@@ -5,7 +5,5 @@ Modhu
 Rajat
 Sodhu
 Raj
-Clark
-Harry
-Bruce
-Peter
+Clark is Superman
+Harry will got to Hogwarts
