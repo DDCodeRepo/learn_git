@@ -1,9 +1,5 @@
 Ram
 Sam
 Jodhu
-<<<<<<< HEAD
 Sodhu
 Raj
-=======
-Modhu
->>>>>>> 3175602eb99dc2e0fcff731e8abbe28448c07c3c
