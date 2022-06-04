@@ -1,5 +1,10 @@
 Ram
 Sam
 Jodhu
+<<<<<<< HEAD
 Modhu
 Rajat
+=======
+Sodhu
+Raj
+>>>>>>> 83effdbd6dab0e72dbb960d0812f2b2fd1d1ccbc
